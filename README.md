@@ -1,6 +1,6 @@
 # HTML Report Builder
 
-A lightweight Python utility for generating self-contained HTML (quality control) reports from neuroimaging figures. The output is a single `.html` file with all images embedded as base64 — no external dependencies, easy to share.
+A lightweight Python utility for generating self-contained HTML (quality control) reports from neuroimaging figures. The output is a single `.html` file with all images embedded as base64 and no external dependencies, easy to share.
 
 ## Features
 
@@ -68,7 +68,7 @@ For each `(fig_title, fig_path)` tuple, leave `fig_title` as an empty string `""
 
 ## Requirements
 
-Python 3.10+ (uses `str | None` union syntax). No third-party packages — only the standard library.
+Python 3.10+ (uses `str | None` union syntax). No third-party packages.
 
 ## License
 
