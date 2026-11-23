@@ -16,7 +16,7 @@ A lightweight Python utility for generating self-contained HTML (quality control
 from pathlib import Path
 from build_qc_report import build_qc_report
 
-sub      = "sub-12142a"
+sub      = "sub-1000"
 figDir   = Path(f"/path/to/{sub}/figures")
 
 skullstrip = {
