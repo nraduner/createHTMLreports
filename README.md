@@ -73,3 +73,6 @@ Python 3.10+ (uses `str | None` union syntax). No third-party packages.
 ## License
 
 MIT
+
+
+*This code was developed with assistance from Claude (Anthropic).*
