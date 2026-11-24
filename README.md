@@ -74,5 +74,5 @@ Python 3.10+ (uses `str | None` union syntax). No third-party packages.
 
 MIT
 
-
+---
 *This code was developed with assistance from Claude (Anthropic).*
